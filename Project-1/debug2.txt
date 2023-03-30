@@ -1,0 +1,654 @@
+Entering deepestConcavity method
+leaving deepestConcavity method, maxGap is and thr is ;132 34
+Entering biGaussian method
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 4 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 9.38462
+LEaving fitguass sum: 15.7871
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 1 0.0213311
+Entering Compute Var Method 
+Leaving computeVar Method returning result 539.206
+LEaving fitguass sum: 1155.5
+divpt: 5 sum1: 15.7871 sum2: 1155.5 total: 1171.29 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 5 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 13.7222
+LEaving fitguass sum: 21.3923
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 1 0.0357751
+Entering Compute Var Method 
+Leaving computeVar Method returning result 543.269
+LEaving fitguass sum: 1157.75
+divpt: 6 sum1: 21.3923 sum2: 1157.75 total: 1179.14 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 7 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 19.96
+LEaving fitguass sum: 24.8007
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 2 0.0237087
+Entering Compute Var Method 
+Leaving computeVar Method returning result 551.98
+LEaving fitguass sum: 1155.45
+divpt: 7 sum1: 24.8007 sum2: 1155.45 total: 1180.25 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 4 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 23.9655
+LEaving fitguass sum: 25.664
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 1 0.0413081
+Entering Compute Var Method 
+Leaving computeVar Method returning result 548.241
+LEaving fitguass sum: 1146.33
+divpt: 8 sum1: 25.664 sum2: 1146.33 total: 1171.99 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 6 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 30.8286
+LEaving fitguass sum: 32.5458
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 1 0.0767918
+Entering Compute Var Method 
+Leaving computeVar Method returning result 555.477
+LEaving fitguass sum: 1156.62
+divpt: 9 sum1: 32.5458 sum2: 1156.62 total: 1189.17 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 10 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 41.9778
+LEaving fitguass sum: 54.6397
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 3 0.100167
+Entering Compute Var Method 
+Leaving computeVar Method returning result 573.428
+LEaving fitguass sum: 1168.51
+divpt: 10 sum1: 54.6397 sum2: 1168.51 total: 1223.15 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 12 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 54.193
+LEaving fitguass sum: 76.8902
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 3 0.136251
+Entering Compute Var Method 
+Leaving computeVar Method returning result 587.777
+LEaving fitguass sum: 1181.18
+divpt: 11 sum1: 76.8902 sum2: 1181.18 total: 1258.07 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 15 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 68.1111
+LEaving fitguass sum: 100.823
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 5 0.0970089
+Entering Compute Var Method 
+Leaving computeVar Method returning result 615.067
+LEaving fitguass sum: 1194.97
+divpt: 12 sum1: 100.823 sum2: 1194.97 total: 1295.79 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 10 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 77.3659
+LEaving fitguass sum: 81.4264
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 3 0.153846
+Entering Compute Var Method 
+Leaving computeVar Method returning result 600.327
+LEaving fitguass sum: 1154.68
+divpt: 13 sum1: 81.4264 sum2: 1154.68 total: 1236.1 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 14 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 90.7292
+LEaving fitguass sum: 112.148
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 4 0.172131
+Entering Compute Var Method 
+Leaving computeVar Method returning result 629.521
+LEaving fitguass sum: 1184.16
+divpt: 14 sum1: 112.148 sum2: 1184.16 total: 1296.31 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 15 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 104.955
+LEaving fitguass sum: 131.965
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 5 0.268949
+Entering Compute Var Method 
+Leaving computeVar Method returning result 643.443
+LEaving fitguass sum: 1183.43
+divpt: 15 sum1: 131.965 sum2: 1183.43 total: 1315.4 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 22 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 124.812
+LEaving fitguass sum: 191.886
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 7 0.245023
+Entering Compute Var Method 
+Leaving computeVar Method returning result 699.063
+LEaving fitguass sum: 1243.45
+divpt: 16 sum1: 191.886 sum2: 1243.45 total: 1435.33 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 20 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 141.961
+LEaving fitguass sum: 186.282
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 7 0.239437
+Entering Compute Var Method 
+Leaving computeVar Method returning result 711.228
+LEaving fitguass sum: 1215.76
+divpt: 17 sum1: 186.282 sum2: 1215.76 total: 1402.04 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 18 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 157.439
+LEaving fitguass sum: 191.652
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 6 0.405471
+Entering Compute Var Method 
+Leaving computeVar Method returning result 706.103
+LEaving fitguass sum: 1188.83
+divpt: 18 sum1: 191.652 sum2: 1188.83 total: 1380.48 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 28 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 180.874
+LEaving fitguass sum: 305.227
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 10 0.523188
+Entering Compute Var Method 
+Leaving computeVar Method returning result 784.08
+LEaving fitguass sum: 1285.51
+divpt: 19 sum1: 305.227 sum2: 1285.51 total: 1590.73 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 38 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 209.755
+LEaving fitguass sum: 443.032
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 14 0.577807
+Entering Compute Var Method 
+Leaving computeVar Method returning result 865.889
+LEaving fitguass sum: 1380.96
+divpt: 20 sum1: 443.032 sum2: 1380.96 total: 1823.99 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 44 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 239.544
+LEaving fitguass sum: 570.51
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 17 0.728625
+Entering Compute Var Method 
+Leaving computeVar Method returning result 924.884
+LEaving fitguass sum: 1432.89
+divpt: 21 sum1: 570.51 sum2: 1432.89 total: 2003.4 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 56 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 273.021
+LEaving fitguass sum: 788.051
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 23 0.850829
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1011.59
+LEaving fitguass sum: 1544.43
+divpt: 22 sum1: 788.051 sum2: 1544.43 total: 2332.48 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 70 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 309.307
+LEaving fitguass sum: 1055.5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 29 1.00926
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1100.6
+LEaving fitguass sum: 1691.42
+divpt: 23 sum1: 1055.5 sum2: 1691.42 total: 2746.92 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 90 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 349.091
+LEaving fitguass sum: 1458.74
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 39 1.19403
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1196
+LEaving fitguass sum: 1896.8
+divpt: 24 sum1: 1458.74 sum2: 1896.8 total: 3355.54 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 120 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 393.222
+LEaving fitguass sum: 2067.64
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 54 1.25376
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1306.46
+LEaving fitguass sum: 2233.15
+divpt: 25 sum1: 2067.64 sum2: 2233.15 total: 4300.79 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 150 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 438.55
+LEaving fitguass sum: 2739.61
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 69 1.37528
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1397.86
+LEaving fitguass sum: 2577.62
+divpt: 26 sum1: 2739.61 sum2: 2577.62 total: 5317.23 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 190 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 485.693
+LEaving fitguass sum: 3628.53
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 89 1.30429
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1498.73
+LEaving fitguass sum: 3067.57
+divpt: 27 sum1: 3628.53 sum2: 3067.57 total: 6696.09 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4217.95
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 102 1.21394
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1588.99
+LEaving fitguass sum: 3325.86
+divpt: 28 sum1: 4217.95 sum2: 3325.86 total: 7543.81 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4334.14
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 96 1.28207
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1652.61
+LEaving fitguass sum: 3266.16
+divpt: 29 sum1: 4334.14 sum2: 3266.16 total: 7600.3 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4455.56
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 91 1.36073
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1716.63
+LEaving fitguass sum: 3191.53
+divpt: 30 sum1: 4455.56 sum2: 3191.53 total: 7647.09 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4581.1
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 1.43839
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1782.2
+LEaving fitguass sum: 3117.16
+divpt: 31 sum1: 4581.1 sum2: 3117.16 total: 7698.26 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4709.63
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 1.54235
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1817.67
+LEaving fitguass sum: 2972.91
+divpt: 32 sum1: 4709.63 sum2: 2972.91 total: 7682.54 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4842.01
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 1.66313
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1852.48
+LEaving fitguass sum: 2826.6
+divpt: 33 sum1: 4842.01 sum2: 2826.6 total: 7668.6 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 4976.08
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 1.77857
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1888.77
+LEaving fitguass sum: 2666.13
+divpt: 34 sum1: 4976.08 sum2: 2666.13 total: 7642.21 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5112.68
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 1.91318
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1924.04
+LEaving fitguass sum: 2508.7
+divpt: 35 sum1: 5112.68 sum2: 2508.7 total: 7621.38 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5250.64
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.05102
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1959.91
+LEaving fitguass sum: 2353.23
+divpt: 36 sum1: 5250.64 sum2: 2353.23 total: 7603.87 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5389.8
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.20198
+Entering Compute Var Method 
+Leaving computeVar Method returning result 1995.32
+LEaving fitguass sum: 2200.8
+divpt: 37 sum1: 5389.8 sum2: 2200.8 total: 7590.6 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5528.97
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.35602
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2031.18
+LEaving fitguass sum: 2051.4
+divpt: 38 sum1: 5528.97 sum2: 2051.4 total: 7580.38 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5667.99
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.5247
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2066.22
+LEaving fitguass sum: 1906.13
+divpt: 39 sum1: 5667.99 sum2: 1906.13 total: 7574.12 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5806.67
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.71038
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2100.22
+LEaving fitguass sum: 1764.98
+divpt: 40 sum1: 5806.67 sum2: 1764.98 total: 7571.65 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 5944.83
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 2.91598
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2132.9
+LEaving fitguass sum: 1627.95
+divpt: 41 sum1: 5944.83 sum2: 1627.95 total: 7572.78 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6081.29
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 3.12747
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2165.55
+LEaving fitguass sum: 1495.04
+divpt: 42 sum1: 6081.29 sum2: 1495.04 total: 7576.32 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6216.87
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 3.38136
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2194.48
+LEaving fitguass sum: 1367.32
+divpt: 43 sum1: 6216.87 sum2: 1367.32 total: 7584.19 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6350.4
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 3.64677
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2222.83
+LEaving fitguass sum: 1243.71
+divpt: 44 sum1: 6350.4 sum2: 1243.71 total: 7594.11 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6480.7
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 3.92146
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2250.51
+LEaving fitguass sum: 1125.27
+divpt: 45 sum1: 6480.7 sum2: 1125.27 total: 7605.97 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6608.61
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 4.25575
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2272.39
+LEaving fitguass sum: 1013.08
+divpt: 46 sum1: 6608.61 sum2: 1013.08 total: 7621.69 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6733.97
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 4.63896
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2289.69
+LEaving fitguass sum: 906.051
+divpt: 47 sum1: 6733.97 sum2: 906.051 total: 7640.02 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6855.61
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 5.04899
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2304.49
+LEaving fitguass sum: 804.182
+divpt: 48 sum1: 6855.61 sum2: 804.182 total: 7659.79 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 6974.37
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 5.5628
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2308.99
+LEaving fitguass sum: 708.534
+divpt: 49 sum1: 6974.37 sum2: 708.534 total: 7682.91 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 7089.12
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 6.13079
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2308.26
+LEaving fitguass sum: 618.032
+divpt: 50 sum1: 7089.12 sum2: 618.032 total: 7707.15 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 7199.71
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 6.81056
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2296.37
+LEaving fitguass sum: 533.725
+divpt: 51 sum1: 7199.71 sum2: 533.725 total: 7733.44 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 7307.01
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 7.7037
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2263.65
+LEaving fitguass sum: 455.614
+divpt: 52 sum1: 7307.01 sum2: 455.614 total: 7762.62 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 7409.87
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 8.77139
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2214.54
+LEaving fitguass sum: 382.631
+divpt: 53 sum1: 7409.87 sum2: 382.631 total: 7792.51 minsumdiff: 1171.29 besthr: 5
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 214 0
+Entering Compute Var Method 
+Leaving computeVar Method returning result 530.157
+LEaving fitguass sum: 7509.2
+Entering Compute fit guass
+Entering Compute Mean method
+Leaving computeMean mehtod maxHeight is an result 86 10.2555
+Entering Compute Var Method 
+Leaving computeVar Method returning result 2126.79
+LEaving fitguass sum: 315.827
+divpt: 54 sum1: 7509.2 sum2: 315.827 total: 7825.02 minsumdiff: 1171.29 besthr: 5
+leaving biguass method, minSumDiff = 1171.29 best thr is5
